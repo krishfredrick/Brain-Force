@@ -1,9 +1,8 @@
 # Brain-Force
 
 ### Things I was Able to complete Successfully
-* This Is the Project for my Spacex Clone
 * I was Able to create the backend auth with session Based Authenication 
-* I Was Able to create the LandingPage register and login Page
+* I Was Able to create the Landing ,register and login Page
 
 
 
